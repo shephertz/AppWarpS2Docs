@@ -1,6 +1,6 @@
 ![](https://raw.github.com/shephertz/AppWarpDeveloper/master/S2/appwarp_logo_s2.png)
 
-Following is the documentation of AppWarp S2 Alpha.
+Following is the documentation of AppWarpS2 Alpha release.
 
 [**AppWarpS2 in a Nutshell (ppt)**](https://raw.github.com/shephertz/AppWarpDeveloper/master/S2/AppWarpS2.pptx)
 
